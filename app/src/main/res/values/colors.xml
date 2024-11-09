@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bakes1">#f0d7a7</color>
+    <color name="bakes2">#c37960</color>
+    <color name="bakes3">#eee1ba</color>
+    <color name="bakes4">#9c634f</color>
+    <color name="bakes5">#674710</color>
+</resources>
